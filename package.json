@@ -1,0 +1,21 @@
+{
+  "name": "wetubeclonecoding2022",
+  "version": "1.0.0",
+  "description": "First try to clone wetube",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayOwall/wetubeCloneCoding2022.git"
+  },
+  "scripts": {
+    "win": "node index.js"
+  },
+  "author": "Owall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayOwall/wetubeCloneCoding2022/issues"
+  },
+  "homepage": "https://github.com/MayOwall/wetubeCloneCoding2022#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
