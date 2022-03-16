@@ -7,7 +7,7 @@
     "url": "git+https://github.com/MayOwall/wetubeCloneCoding2022.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "Owall",
   "license": "MIT",
